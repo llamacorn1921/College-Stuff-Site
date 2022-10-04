@@ -1,5 +1,8 @@
 name: 'Node test'
 description: 'testing if node works'
+on:
+  push:
+    branches: [ main ]
 jobs:
   build:
     runs-on: ubuntu-latest
