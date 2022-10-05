@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "glob-uglifyjs": "^2.0.0"
+  }
+}
