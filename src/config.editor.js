@@ -7,4 +7,4 @@ requirejs.config({
 	},
 	waitSeconds: 5
 });
-requirejs(["pages/page.editor.min"]);
+requirejs(["pages/page.editor"]);

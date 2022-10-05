@@ -6,7 +6,7 @@
   "description": "",
   "version": "0.1.0",
   "scripts": {
-    "install": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
