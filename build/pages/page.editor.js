@@ -1,1 +1,1 @@
-define(["require"],e=>{var r=e("jquery");e("lib"),e("vs");r(function(){console.log("ready!")})});
+define(["jquery","vs","lib"],e=>{$(function(){console.log("ready!")})});

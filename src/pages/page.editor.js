@@ -1,7 +1,5 @@
-define(['require'], (require) => {
-	const $ = require('jquery');
-	const lib = require('lib');
-	const vs = require("vs")
+define(['jquery', 'vs', 'lib'], (require) => {
+
 	$(function() {
 		console.log( "ready!" );
 	});
