@@ -1,1 +1,1 @@
-requirejs(["./config"],config=>{requirejs(["pages/page.index.min"])});
+requirejs(["./config"],config=>{requirejs(["pages/page.index"])});
