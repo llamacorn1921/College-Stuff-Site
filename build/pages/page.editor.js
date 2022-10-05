@@ -1,1 +1,1 @@
-define(["jquery","vs","lib"],e=>{$(function(){console.log("ready!")})});
+define(["jquery","lib","vs/editor/editor.main"],e=>{$(function(){console.log("ready!")})});
