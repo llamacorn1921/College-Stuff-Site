@@ -1,1 +1,0 @@
-define(e=>{var n=e("jquery");e("lib"),e("vs");n(function(){console.log("ready!")})});
