@@ -4,7 +4,8 @@ git commit -m "Build | $(date)"
 git push
 git checkout site
 git checkout main build/
-git add build/
+gitc checkout main *.html
+git add build/ *.html
 git commit -m "Build | $(date)"
 git push origin site
 git checkout main
